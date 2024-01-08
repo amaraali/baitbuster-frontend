@@ -2,6 +2,9 @@
 
 BaitBuster is a sophisticated deep learning tool specifically designed for clickbait news headline classification. Leveraging advanced machine learning techniques, BaitBuster has the capability to accurately analyze and categorize headlines as either clickbait or non-clickbait.
 
+# Backend Repo
+https://github.com/amaraali/baitbuster-backend
+
 ## Getting Started
 
 First, run the development server:
